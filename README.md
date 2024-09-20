@@ -1,1 +1,1 @@
-# Api test using World Bank api
+# Api test using Open Exchange Rates API
